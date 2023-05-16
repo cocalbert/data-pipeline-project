@@ -20,10 +20,10 @@ df = pd.read_csv('pd.read_csv(r'HR-Employee-Attrition.csv')
 
 Para ejecutar este Jupyter Notebook, necesitarás tener instalados los siguientes paquetes de Python:
 
-NumPy (puedes instalarlo ejecutando pip install numpy en tu terminal)
-Pandas (puedes instalarlo ejecutando pip install pandas en tu terminal)
-Seaborn (puedes instalarlo ejecutando pip install seaborn en tu terminal)
-Matplotlib (puedes instalarlo ejecutando pip install matplotlib en tu terminal)
+NumPy,
+Pandas,
+Seaborn,
+Matplotlib.
 Además, deberás tener instalado Jupyter Notebook para ejecutar el archivo de notebook. Puedes instalarlo ejecutando pip install jupyter en tu terminal.
 
 Una vez que hayas instalado estas dependencias, deberías poder ejecutar el Jupyter Notebook sin problemas.
